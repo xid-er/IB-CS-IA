@@ -1,0 +1,5 @@
+Crit A Planning: 288
+Crit A Solution: 149
+Crit C: 959
+Crit E Success Criteria: 215
+Crit E Further Development: 184
